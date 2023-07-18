@@ -1,7 +1,7 @@
 ## Introduction
 
 How square is a positive integer on average?  Let $N$ be a positive integer,
-suppose $0<a\geq b$ are positive integers such that $N=ab$ and the difference
+suppose $0<a\leq b$ are positive integers such that $N=ab$ and the difference
 $b-a$ is the minimum over all such pairs of numbers whose product is $N$.  If
 $N$ is a perfect square then $a=b$; if $N$ is a prime then $b=N$ and $a=1$.
 How close to $1$ can we expect the ratio of $a/b$ to be on average.
